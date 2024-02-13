@@ -1,0 +1,71 @@
+/* Styles généraux pour l'application */
+.code-route-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Styles pour la boîte de question */
+.question-box {
+  border: 1px solid #ccc;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Styles pour l'image de la question */
+.question-image {
+  max-width: 100%;
+  max-height: 400px;
+  margin: 0 auto;
+  display: block;
+}
+
+/* Styles pour les choix de réponse */
+.choices {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.choices label {
+  display: flex;
+  align-items: center;
+}
+
+/* Styles pour les boutons de navigation */
+.navigation-buttons {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+/* Styles pour tous les boutons */
+button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Styles pour les boutons désactivés */
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.correct {
+  background-color: #aaffaa;
+}
+
+.incorrect {
+  background-color: #ffaaaa; 
+}
+
+.summary-table a {
+  text-decoration: underline;
+  color: blue; 
+}

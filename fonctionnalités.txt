@@ -1,0 +1,32 @@
+Mini Application de Code de la Route (Version 1.0)
+Fonctionnalités actuelles :
+
+    -Sélection de la Série : Choisissez parmi les différentes séries du code de la route (B1 à B12).
+    -Navigation entre les Questions : Passez facilement d'une question à l'autre.
+    -Réponses Utilisateur : Enregistrez vos réponses aux questions.
+    -Résumé des Résultats : Obtenez un récapitulatif de vos réponses avec des indications sur la correction.
+
+Comment utiliser l'application :
+
+    -Sélectionnez la série désirée dans le menu déroulant.
+    -Répondez aux questions en cochant les réponses souhaitées.
+    -Utilisez les boutons de navigation pour passer d'une question à l'autre.
+    -Soumettez vos réponses pour voir un récapitulatif détaillé de votre performance.
+
+À venir dans les prochaines versions :
+
+    -Visualisation des Images : Accédez aux images associées à chaque question pour
+     une meilleure compréhension.
+    -utilisation de l'IA pour une explication détaillée de chaque
+    question aprés soumission des résultats
+    Suivi du Progrès : Visualisez votre progression à travers les séries.
+    Mode Révision : Revenez sur les questions précédemment résolues pour
+     une révision ultérieure.
+    -Ajout d'une page cours là aussi basé sur l'IA principalement pour
+    pouvoir suivre des cours de code de la route
+Je travaille activement pour améliorer l'application et ajouter de
+ nouvelles fonctionnalités pour une expérience d'apprentissage du code
+  de la route encore plus enrichissante. Restez à l'écoute
+  pour les mises à jour !
+  Mises à jours (en cours...)
+  Merci!!
